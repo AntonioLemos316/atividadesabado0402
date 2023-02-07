@@ -1,13 +1,13 @@
 main{
-    background: #4444442c;
+    background: #33333333;
     text-align: center;
     color: #00e0f0;
     padding: 5px;
 }
 
 h2, h3, .container{
+    background: #33333333;
     border: 1px solid #00e0f0;
-    background: #33333346;
     border-radius: 5px;
     width: 40%;
     margin: auto;
@@ -19,17 +19,21 @@ h2, h3{
 }
 
 table, tr, td, th{
-    background: #33333348;
+    background: #00e0f000;
     border: 1px solid #00e0f0;
     margin: auto;
     width: 40%;
 }
 
 input, label, .item{
+    background: #00e0f000;
     color: #00e0f0;
-    background: #00e0f002;
-    margin: 3px;
-    padding: 3px;
+    margin: 2px;
+    padding: 2px;
+}
+
+.container2, .item2, .container3, .item3, tbody{
+    background: #00e0f000;
 }
 
 img{

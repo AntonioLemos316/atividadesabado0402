@@ -1,9 +1,13 @@
 header{
-    font-family: 'Book Antiqua', 'Arial-Narrow', 'Bookman Old Style', sans-serif;
+    background: #00e0f004;
+    font-family: sans-serif;
     font-size: 1.8em;
-    background: #2222222d;
     color: #00e0f0;
     border: 1px solid #00e0f0;
     text-align: center;
     padding: 30px;
+}
+
+h1{
+    background: #22222259;
 }
