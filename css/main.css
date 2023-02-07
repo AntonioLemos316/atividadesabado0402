@@ -1,0 +1,39 @@
+main{
+    background: #4444442c;
+    text-align: center;
+    color: #00e0f0;
+    padding: 5px;
+}
+
+h2, h3, .container{
+    border: 1px solid #00e0f0;
+    background: #33333346;
+    border-radius: 5px;
+    width: 40%;
+    margin: auto;
+}
+
+h2, h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table, tr, td, th{
+    background: #33333348;
+    border: 1px solid #00e0f0;
+    margin: auto;
+    width: 40%;
+}
+
+input, label, .item{
+    background: #00e0f002;
+    margin: 3px;
+    padding: 3px;
+}
+
+img{
+    margin-top: 20px;
+    border: 1px solid #00e0f0;
+    width: 40%;
+    height: auto;
+}
