@@ -26,6 +26,7 @@ table, tr, td, th{
 }
 
 input, label, .item{
+    color: #00e0f0;
     background: #00e0f002;
     margin: 3px;
     padding: 3px;
@@ -36,4 +37,11 @@ img{
     border: 1px solid #00e0f0;
     width: 40%;
     height: auto;
+}
+
+img:hover{
+    -webkit-transform: scale(1.1);
+    transform: (1.1);
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
 }
